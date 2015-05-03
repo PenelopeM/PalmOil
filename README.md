@@ -1,6 +1,11 @@
 # PalmOil
 Research project on Palm Oil. Concentrating on the demand side in the UK.
 
+** Under what name does palm oil appear **
+
+INGREDIENTS: Vegetable Oil, Vegetable Fat, Palm Kernel, Palm Kernel Oil, Palm Fruit Oil, Palmate, Palmitate, Palmolein, Glyceryl, Stearate, Stearic Acid, Elaeis Guineensis, Palmitic Acid, Palm Stearine, Palmitoyl Oxostearamide, Palmitoyl Tetrapeptide-3, Sodium Laureth Sulfate, Sodium Lauryl Sulfate, Sodium Kernelate, Sodium Palm Kernelate, Sodium Lauryl Lactylate/Sulphate, Hyrated Palm Glycerides, Etyl Palmitate, Octyl Palmitate, Palmityl Alcohol
+
+CONTAINS: Palm oil
 
 ** Who is buying palm oil? **
 
@@ -11,8 +16,21 @@ Research project on Palm Oil. Concentrating on the demand side in the UK.
 - McCain
 - Cadbury's
 - Danisco
-- 
-
+- Ben & Jerry's
+- Haribo
+- Dove
+- Body Shop (L'oreal)
+- Kellog's
+- Mars
+- Sainsbury's
+- Asda
+- Aldi
+- Kraft
+- M&S
+- The Co-operative
+- Johnson & Johnson
+- Waitrose
+- Tesco
 - Commodities traders are Cargill, ADM, Golden Hope, Sinar Mas
 
 ** What is it used in? **
@@ -24,22 +42,37 @@ Research project on Palm Oil. Concentrating on the demand side in the UK.
 - Aunt Bessie's roast potatoes
 - Clover (dairy crest)
 - Ben & Jerry's ice cream
-- Cadbury's
 - Dove soap
 - Body Shop soap
 - Ginsters
 - Chicago Town pizza
 - Clinique
-- Kellog's
 - Elizabeth Arden
 - Goodfella's pizza
 - Flora
 - Galaxy
-- Mars
 - Colgate
-- Proctor & Gamble
 - Premier Foods
 - Gillette
+- Vanish
+- Pasties
+- Herbal Essences
+- Warburtons
+- Hovis
+- Jammy dodgers
+- KitKat
+- Maltesers
+- Kipling
+- Oilay
+- whole Earth
+- Bird's eye
+- Palmolive
+- Pears
+- Pringles
+- Quality Street
+- Ritz crackers
+- Roses
+- Wrigley
 
 ** Who is monitoring the quality of the palm oil that businesses are using? **
 
