@@ -31,6 +31,13 @@ CONTAINS: Palm oil
 - Johnson & Johnson
 - Waitrose
 - Tesco
+- Ecover
+- Reckitt Benckiser
+- Northern Foods
+- McDonald's
+- Heinz
+- Dairy Crest
+- Pepsico
 - Commodities traders are Cargill, ADM, Golden Hope, Sinar Mas
 
 ** What is it used in? **
@@ -90,7 +97,12 @@ Research and data analysis: Jon Grayson/EnviroMarket Ltd.
 
 ** Sustainability campainers **
 
+- Friends of the Earth 
+European buyers of Indonesia Palm Oil http://www.foe.co.uk/sites/default/files/downloads/greasy_palms_buyers.pdf
+
 - Greenpeace
 Report on palm oil and how RSPO doesn't work - http://www.greenpeace.org.uk/files/pdfs/forests/cooking-the-climate-1.pdf
 http://www.greenpeace.org.uk/files/pdfs/forests/cooking-the-climate-3.pdf
 http://www.greenpeace.org.uk/files/pdfs/forests/cooking-the-climate-4.pdf
+
+- POI Palm Oil Investigators (based in Australia): Also criticise RSPO - http://www.palmoilinvestigations.org/brand-palm-oil-statements 
