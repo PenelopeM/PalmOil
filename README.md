@@ -8,10 +8,38 @@ Research project on Palm Oil. Concentrating on the demand side in the UK.
 - Proctor & Gamble
 - Nestle
 - Kraft
+- McCain
+- Cadbury's
+- Danisco
+- 
 
 - Commodities traders are Cargill, ADM, Golden Hope, Sinar Mas
 
 ** What is it used in? **
+
+- aero
+- basset's allsorts
+- Haribo
+- Young's
+- Aunt Bessie's roast potatoes
+- Clover (dairy crest)
+- Ben & Jerry's ice cream
+- Cadbury's
+- Dove soap
+- Body Shop soap
+- Ginsters
+- Chicago Town pizza
+- Clinique
+- Kellog's
+- Elizabeth Arden
+- Goodfella's pizza
+- Flora
+- Galaxy
+- Mars
+- Colgate
+- Proctor & Gamble
+- Premier Foods
+- Gillette
 
 ** Who is monitoring the quality of the palm oil that businesses are using? **
 
